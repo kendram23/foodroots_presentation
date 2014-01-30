@@ -112,3 +112,11 @@ pre .xml .css,
 pre .xml .cdata {
   opacity: 0.5;
 }
+
+.background_image {
+  background: url('http://www.layoutsparks.com/1/225156/wonderful-world-nature-grass.html');
+}
+
+.main_div {
+  color: white;
+}
